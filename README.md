@@ -12,15 +12,15 @@ E-Commerce app is a design implementaion of [Flitter_Food_App](https://user-imag
 
 ## Application Screenshots & Video
 
-  Splash Page                 |   Name Page        |  Cast Page
+  Home Page[White]                 |   Home Page[Dark]        |  Treanding Page[Dark]        |  Treanding Page[White]
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="ss/2.png" width="400">|<img src="ss/3.png" width="400">|<img src="ss/4.png" width="400">
+<img src="ss/2.png" width="400">|<img src="ss/3.png" width="400">|<img src="ss/4.png" width="400">|<img src="ss/5.png" width="400">
 
 
 
-  Age Page                 |
-:-------------------------:|:
-<img src="ss/5.png" width="400">|
+  Age Page                 
+:-------------------------:
+<img src="ss/5.png" width="400">
 
 ```
 ## Pull Requests
